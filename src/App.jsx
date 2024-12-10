@@ -18,7 +18,7 @@ const App = () => {
       ]);
       setNewTask("");
     } else {
-      alert("Nothing to do? Really?");
+      alert("Nothing to do? Really, sure?");
     }
   };
 
