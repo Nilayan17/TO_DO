@@ -63,7 +63,7 @@ button:hover {
 .todo-item {
   display: flex;
   align-items: center;
-  padding: 15px;
+  padding: 15px 25px;
   margin: 15px 0;
   background-color: #f9f9f9;
   border-radius: 10px;
